@@ -1,0 +1,52 @@
+body{
+  background-color: #0b0c10;
+}
+h1 {
+    color: #66fcf1;
+    text-align: center;
+    font-family: 'Taviraj', serif;
+    font-size: 100px;
+}
+h2 {
+    color: #66fcf1;
+    font-family: 'Taviraj', serif;
+    font-size: 50px;
+}
+h3 {
+    color: #66fcf1;
+    font-family: 'Taviraj', serif;
+    font-size: 30px;
+}
+
+p {
+    color: #c5c6c7;
+    font-family: 'Taviraj', serif;
+}
+
+.navbar{
+    background-color: #1f2833;
+}
+
+.btn{
+    border: 2px solid #45a29e;
+    background-color: #1f2833;
+    color: #c5c6c7;
+}
+
+.btn:hover{
+    background-color: #45a29e;
+}
+
+.info-section{
+    padding-top: 60px;
+}
+.portfolio-row{
+    margin-top: 40px;
+}
+
+i {
+    color: #66fcf1;
+}
+i:hover{
+    color: #45a29e
+}
