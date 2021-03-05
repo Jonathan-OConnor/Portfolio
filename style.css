@@ -23,7 +23,7 @@ p {
     font-family: 'Taviraj', serif;
 }
 
-.navbar{
+.navbar, .contact-section{
     background-color: #1f2833;
 }
 
